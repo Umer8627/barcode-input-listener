@@ -2,7 +2,6 @@ name: barcode_input_listener
 description: "A Flutter package for listening to barcode inputs"
 version: 0.0.1
 homepage: https://github.com/Umer8627/barcode-input-listener
-publish_to: 'https://pub.dev'
 environment:
   sdk: ^3.5.0
   flutter: ">=1.17.0"
